@@ -39,3 +39,13 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sharmi4590&show_icons=true&locale=en" alt="sharmi4590" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sharmi4590&" alt="sharmi4590" /></p>
+
+## GSSOC(24) Badges 🪶
+<div style='display:flex; align-items:center; gap: 10px;' align='center'>
+<img src="https://raw.githubusercontent.com/girlscript/gssoc-website-new/main/public/badges/postman.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/1.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/2.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/3.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/4.png" width="100px" height="100px" />
+  <img src="https://github.com/girlscript/gssoc-website-new/blob/main/public/badges/5.png" width="100px" height="100px" />
+</div>
